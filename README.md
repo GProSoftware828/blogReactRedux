@@ -1,3 +1,4 @@
+API from the wonderful class Modern React with Redux [2019 Update] by instructor Stephen Grider.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
